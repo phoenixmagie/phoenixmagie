@@ -1,36 +1,54 @@
-# Hallo Welt, ich bin Phoenixmagie! 👋
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dein-github-username&label=Profil-Aufrufe&color=0e75b6&style=flat" alt="Views" />
+<h1 align="center">Hi 👋, ich bin phoenixmagie</h1>
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=phoenixmagie&theme=discord&column=7" alt="phoenixmagie Trophies" />
+  </a> 
 </p>
+
+---
 
 ### 💫 Über mich
-- 🔭 Ich arbeite zurzeit an **[Projekt Name]**.
-- 🌱 Ich lerne gerade alles über **[Technologie, z.B. Rust oder React]**.
-- 💬 Frag mich gerne zu **[Thema, z.B. Backend-Architektur]**.
-- ⚡ Fun Fact: **[Etwas Witziges über dich]**.
+- 🚀 Ich konzentriere mich auf **Full-Stack Development**.
+- 🛠️ Ich arbeite leidenschaftlich mit **Java** und **MySQL**.
+- 🌐 Web-Interfaces erstelle ich mit **HTML, CSS und JavaScript**.
+- ⚙️ Konfigurationen halte ich sauber (z.B. via `CLAN_DATA`).
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-| Kategorie | Tech |
-| :--- | :--- |
-| **Sprachen** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| **Config** | `CLAN_DATA` Experte ⚙️ |
-
----
-
-### 📊 GitHub Stats
+<h3 align="left">Sprachen und Tools:</h3>
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dein-github-username&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dein-github-username&layout=compact&theme=radical&hide_border=false"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
 </p>
 
 ---
 
-### 📫 Kontakt
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/dein-profil)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/dein-handle)
+<h3 align="center">Aktivität & Statistik</h3>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=phoenixmagie&theme=discord-old-blurple" alt="phoenixmagie Streak" />
+</p>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phoenixmagie&theme=discord_old_blurple" height="170em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phoenixmagie&theme=2077" height="170em" />
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+---
+
+### 🔗 Connect mit mir
+<p align="left">
+<a href="https://github.com/phoenixmagie" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
