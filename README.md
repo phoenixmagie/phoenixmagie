@@ -1,25 +1,69 @@
-<h1 align="center">Hi 👋, I'm Phoenixmagie</h1>
-<h3 align="center">A Website-Developer from Germany</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF3B3B&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Phoenixmagie;Website-Developer;Kotlin+%26+Java+Enthusiast;Building+my+own+Android+App" alt="Typing SVG" />
+  
+  <p>🚀 Website-Developer from Germany</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phoenixmagie&label=Profile%20Views&color=ff3b3b&style=flat" alt="phoenixmagie" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=phoenixmagie&label=Profile%20Views&color=ff3b3b&style=flat-square" alt="phoenixmagie" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phoenixmagie" alt="phoenixmagie" /></a> </p>
+---
 
-- 🔭 I’m currently working on [my own Android App](--)
+### 📱 My Current Project
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="100" height="100" />
+      </td>
+      <td>
+        <strong>Android App Project</strong><br />
+        Ich entwickle gerade eine eigene Android-App mit <b>Kotlin</b>. <br />
+        Fokus: Clean Architecture & User Experience. <br />
+        <i>Status: In Development 🛠️</i>
+      </td>
+    </tr>
+  </table>
+</div>
 
+---
+
+### 🛠️ About Me
+- 🔭 I’m currently working on **my own Android App**
 - 🌱 I’m currently learning **Kotlin & Java**
+- ⚡ Fun fact: Ich liebe es, Code in funktionierende Magie zu verwandeln.
 
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with me
 <p align="left">
-<a href="https://www.youtube.com/c/phoenixmagie_fire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="phoenixmagie_fire" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/PJZjFx8M6N" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/PJZjFx8M6N" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/phoenixmagie_fire" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="35" width="35" /></a>
+  <a href="https://discord.gg/PJZjFx8M6N" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="35" width="35" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+### 💻 Tech Stack
+<p align="left"> 
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phoenixmagie&show_icons=true&theme=radical&title_color=ff0000&bg_color=ff3d3d&hide_border=true&locale=en&layout=compact" alt="phoenixmagie" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phoenixmagie&show_icons=true&theme=radical&title_color=ff7070&text_color=ff0000&bg_color=ff0000&hide_border=true&locale=en" alt="phoenixmagie" /></p>
+### 📊 GitHub Activity
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=phoenixmagie&theme=react-dark&bg_color=1a1a1a&color=ff3b3b&line=ff3b3b&point=ffffff&hide_border=true" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phoenixmagie&" alt="phoenixmagie" /></p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phoenixmagie&show_icons=true&theme=radical&title_color=ff3b3b&icon_color=ff3b3b&text_color=ffffff&bg_color=1a1a1a&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=phoenixmagie&show_icons=true&theme=radical&title_color=ff3b3b&icon_color=ff3b3b&text_color=ffffff&bg_color=1a1a1a&hide_border=true&layout=compact" />
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=phoenixmagie&theme=radical&no-bg=true&column=7" alt="Trophies" />
+  </a>
+</div>
