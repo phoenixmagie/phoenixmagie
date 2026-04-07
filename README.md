@@ -7,12 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=phoenixmagie&label=Profile%20Views&color=ff3b3b&style=flat-square" alt="Views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=phoenixmagie&theme=radical&column=7&no-bg=true" alt="Trophies" />
-  </a>
-</p>
-
 ---
 
 ### 💫 Über mich
