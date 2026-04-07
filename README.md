@@ -1,69 +1,36 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF3B3B&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Phoenixmagie;Website-Developer;Kotlin+%26+Java+Enthusiast;Building+my+own+Android+App" alt="Typing SVG" />
-  
-  <p>🚀 Website-Developer from Germany</p>
+# Hallo Welt, ich bin Phoenixmagie! 👋
 
-  <img src="https://komarev.com/ghpvc/?username=phoenixmagie&label=Profile%20Views&color=ff3b3b&style=flat-square" alt="phoenixmagie" />
-</div>
-
----
-
-### 📱 My Current Project
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="100" height="100" />
-      </td>
-      <td>
-        <strong>Android App Project</strong><br />
-        Ich entwickle gerade eine eigene Android-App mit <b>Kotlin</b>. <br />
-        Fokus: Clean Architecture & User Experience. <br />
-        <i>Status: In Development 🛠️</i>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🛠️ About Me
-- 🔭 I’m currently working on **my own Android App**
-- 🌱 I’m currently learning **Kotlin & Java**
-- ⚡ Fun fact: Ich liebe es, Code in funktionierende Magie zu verwandeln.
-
-### 🌐 Connect with me
-<p align="left">
-  <a href="https://www.youtube.com/c/phoenixmagie_fire" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="35" width="35" /></a>
-  <a href="https://discord.gg/PJZjFx8M6N" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="35" width="35" /></a>
-</p>
-
-### 💻 Tech Stack
-<p align="left"> 
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Activity
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=phoenixmagie&theme=react-dark&bg_color=1a1a1a&color=ff3b3b&line=ff3b3b&point=ffffff&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=dein-github-username&label=Profil-Aufrufe&color=0e75b6&style=flat" alt="Views" />
 </p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phoenixmagie&show_icons=true&theme=radical&title_color=ff3b3b&icon_color=ff3b3b&text_color=ffffff&bg_color=1a1a1a&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=phoenixmagie&show_icons=true&theme=radical&title_color=ff3b3b&icon_color=ff3b3b&text_color=ffffff&bg_color=1a1a1a&hide_border=true&layout=compact" />
-</div>
+### 💫 Über mich
+- 🔭 Ich arbeite zurzeit an **[Projekt Name]**.
+- 🌱 Ich lerne gerade alles über **[Technologie, z.B. Rust oder React]**.
+- 💬 Frag mich gerne zu **[Thema, z.B. Backend-Architektur]**.
+- ⚡ Fun Fact: **[Etwas Witziges über dich]**.
 
-<br />
+---
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=phoenixmagie&theme=radical&no-bg=true&column=7" alt="Trophies" />
-  </a>
-</div>
+### 🛠️ Tech Stack & Tools
+
+| Kategorie | Tech |
+| :--- | :--- |
+| **Sprachen** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **Config** | `CLAN_DATA` Experte ⚙️ |
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dein-github-username&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dein-github-username&layout=compact&theme=radical&hide_border=false"/>
+</p>
+
+---
+
+### 📫 Kontakt
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/dein-profil)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/dein-handle)
