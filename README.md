@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h1 align="center">Hi 👋, ich bin Phoenixmagie</h1>
-<h3 align="center">🚀 Website-Developer & Android-Enthusiast aus Deutschland</h3>
+<h3 align="center">🚀 Deutscher Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=phoenixmagie&label=Profile%20Views&color=ff3b3b&style=flat-square" alt="Views" />
@@ -13,7 +13,7 @@
 - 🔭 **Aktuelles Projekt:** Ich entwickle gerade meine eigene **Android App**.
 - 🌱 **Lernphase:** Ich vertiefe meine Kenntnisse in **Kotlin & Java**.
 - 💬 **Kontakt:** Am besten erreichst du mich über **Discord**.
-- ⚡ **Fun Fact:** Eat. Sleep. Code. Repeat. 🔁
+- ⚡ **Status:** Eat. Sleep. Code. Repeat. 🔁
 
 ---
 
@@ -64,7 +64,7 @@
 
 ### 🤝 Connect with me
 <p align="left">
-  <a href="https://www.youtube.com/c/phoenixmagie_fire" target="blank">
+  <a href="https://www.youtube.com/phoenixmagie_fire" target="blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="phoenixmagie_fire" />
   </a>
   <a href="https://discord.gg/PJZjFx8M6N" target="blank">
