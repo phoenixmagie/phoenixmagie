@@ -45,10 +45,6 @@
 ---
 
 ### 📊 GitHub Statistics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=phoenixmagie&show_icons=true&theme=radical&title_color=ff3b3b&icon_color=ff3b3b&hide_border=true&layout=compact" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=phoenixmagie&show_icons=true&theme=radical&title_color=ff3b3b&icon_color=ff3b3b&hide_border=true" />
-</p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=phoenixmagie&theme=radical&stroke=ff3b3b&fire=ff3b3b" alt="Streak Stats" />
