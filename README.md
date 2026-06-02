@@ -10,7 +10,7 @@
 ---
 
 ### 💫 About Me
-- 🔭 **Current Project:** Working on [my own Android App](--)
+- 🔭 **Current Project:** Working on my own Android App
 - 🌱 **Learning:** Deepening my knowledge in **Kotlin & Java**
 - 💬 **Contact:** Reach me best via **Discord**
 - ⚡ **Status:** Eat. Sleep. Code. Repeat. 🔁
