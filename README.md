@@ -14,6 +14,7 @@
 - 🔭 **Current Project:** Working on my own Android App & Full Stack Projects
 - 🌱 **Learning:** Deepening my knowledge in **Kotlin & Java**
 - 💬 **Contact:** Reach me best via **Discord**
+- 🌐 **Languages:** English 🇬🇧 and German 🇩🇪
 - ⚡ **Status:** Eat. Sleep. Code. Repeat. 🔁
 
 ---
