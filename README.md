@@ -68,7 +68,7 @@
   </a>
 </p>
 
-### 📊 GitHub Statistics
+### 📊 GitHub Public Repo Statistics (excluded my Activities in Private Repositorys)
 
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=phoenixmagie&theme=radical&stroke=ff3b3b&fire=ff3b3b" alt="Streak Stats" />
