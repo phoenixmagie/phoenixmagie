@@ -18,9 +18,9 @@
 - ⚡ **Status:** Eat. Sleep. Code. Repeat. 🔁
 
 ---
-## 🛠️ Sprachen und Tools
+## 🛠️ Code Language & Tools
 
-### 💻 Programmier- & Skriptsprachen
+### 💻 Programming & Script Languages
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" width="40" height="40" style="padding: 5px;"/>
@@ -46,7 +46,7 @@
   </a>
 </p>
 
-### 🗄️ Backend & Datenbanken
+### 🗄️ Backend & Databases
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" width="40" height="40" style="padding: 5px;"/>
