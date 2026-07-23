@@ -84,7 +84,7 @@
 
 ### 🤝 Connect with me
 <p align="left">
-  <a href="https://discord.gg/PJZjFx8M6N" target="_blank" rel="noreferrer">
+  <a href="https://discord.gg/Ccj4HUFw4C" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://github.com/phoenixmagie" target="_blank" rel="noreferrer">
