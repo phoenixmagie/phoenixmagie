@@ -10,7 +10,7 @@
 ---
 
 <h3 align="center">🔗 Discord 🔗</h3>
-[![Discord Presence](https://lanyard.cnrad.dev/api/1461615776925487211?bg=000000&idleMessage=Eat.%20Sleep.%20Code.%20Repeat.&theme=dark)](https://discord.com/users/1461615776925487211)
+<a href="https://discord.com/users/1461615776925487211"><img src="https://lanyard.cnrad.dev/api/1461615776925487211?bg=000000&idleMessage=Eat.%20Sleep.%20Code.%20Repeat.&theme=dark" /></a>
 
 ---
 
