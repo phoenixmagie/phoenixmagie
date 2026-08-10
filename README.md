@@ -10,13 +10,7 @@
 ---
 
 <h3 align="center">🔗 Discord 🔗</h3>
-<div align="center" style="width: 100%; max-width: 800px;">
-  <a href="https://discord.com/users/1461615776925487211">
-      <img src="https://lanyard.cnrad.dev/api/1461615776925487211?showDisplayName=true&theme=dark&width=800" 
-               alt="Discord Presence" 
-                        style="width: 40%; height: auto;">
-   </a>
-</div>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1461615776925487211?bg=000000&idleMessage=Eat.%20Sleep.%20Code.%20Repeat.&theme=dark)](https://discord.com/users/1461615776925487211)
 
 ---
 
