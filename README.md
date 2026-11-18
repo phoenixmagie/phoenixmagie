@@ -16,7 +16,7 @@
 - 🌍 **Location:** Based in Germany
 - 🔭 **Current Project:** Working on my own Android App & Full Stack Projects
 - 🌱 **Learning:** Deepening my knowledge in **Kotlin & Java**
-- 💬 **Contact:** Reach me best via **Discord**
+- 💬 **Contact:** Reach me best via my **[Contact Website](https://contact.phoenixmagie.eu "Get in Touch with me")**
 - 🌐 **Languages:** English 🇬🇧 and German 🇩🇪
 - ⚡ **Status:** Eat. Sleep. Code. Repeat. 🔁
 
